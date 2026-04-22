@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.A210509_MrNelson_Lab3Theme" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.A210509_MrNelson_Lab4" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

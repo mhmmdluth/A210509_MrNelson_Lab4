@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "A210509_MrNelson_Lab3Theme"
+rootProject.name = "A210509_MrNelson_Lab4"
 include(":app")
